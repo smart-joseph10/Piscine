@@ -1,0 +1,1 @@
+c2r7s8% find . -name \( -name "*~ -o -name "#**#" \) \! -type d -print -delete
